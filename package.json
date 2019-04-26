@@ -1,0 +1,18 @@
+{
+  "name": "grunt-playlist-master",
+  "version": "1.0.0",
+  "description": "Perform reactive tasks\r Prefixing css rules\r compiling sass into css\r minify js/css 3\r concatenting files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-sass": "^3.0.2",
+    "node-sass": "^4.11.0",
+    "grunt-contrib-uglify": "^4.0.1",
+  }
+}
